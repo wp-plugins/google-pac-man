@@ -2,7 +2,7 @@
 /*
 Plugin Name: Google Pac-Man
 Plugin URI: http://themergency.com
-Description: Add Google's mini Pac-Man game to your blog
+Description: Add Google's mini Pac-Man game to your blog. Add the shortcode [pacman] to embed the mini game
 Version: 0.1
 Author: Brad Vincent
 Author URI: http://themergency.com
