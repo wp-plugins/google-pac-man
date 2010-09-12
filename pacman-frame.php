@@ -136,7 +136,7 @@
 </iframe>
 
 <div id='lga' style="background:black">
-	<div id='logo' style="width:580px;height:170px;background:url(pacman10-hp.png) 0 0 no-repeat;position:relative;" title="PAC-MAN™ ©1980 NAMCO BANDAI Games Inc.">
+	<div id='logo' style="width:580px;height:180px;background:url(pacman10-hp.png) 0 0 no-repeat;position:relative;" title="PAC-MAN™ ©1980 NAMCO BANDAI Games Inc.">
 		<div id="logo-l" style="width:200px;height:2px;left:177px;top:157px;background:#990;position:absolute;display:none;overflow:hidden">
 			<div id="logo-b" style="position:absolute;left:0;background:#ff0;height:8px;width:0">
 			</div>
